@@ -2,10 +2,10 @@
 	"version": 1,
 	"requireListed": false,
 	"licenses": {
-		"LIC-ABCD-1234-5678": {
+		"LIC-6DAE-D4C5-B094": {
 			"status": "active",
 			"edition": "elite",
-			"customer": "Cliente Demo",
+			"customer": "Francisco Jesus Jalomo Chavez",
 			"note": "Licencia de ejemplo"
 		}
 	},
