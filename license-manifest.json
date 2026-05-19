@@ -2,12 +2,12 @@
 	"version": 1,
 	"requireListed": false,
 	"licenses": {
-		"LIC-6DAE-D4C5-B094": {
-			"status": "active",
-			"edition": "basic",
-			"customer": "Francisco Jesus Jalomo Chavez",
-			"note": "Licencia de ejemplo2"
-		}
+		"LIC-D022-D549-0F22": {
+        "status": "active",
+        "edition": "basic",
+        "customer": "Francisco Jesus Jalomo Chavez",
+        "note": "Licencia de ejemplo2"
+        }
 	},
 	"revokedLicenses": []
 }
