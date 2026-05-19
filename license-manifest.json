@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"requireListed": false,
+	"licenses": {
+		"LIC-ABCD-1234-5678": {
+			"status": "active",
+			"edition": "elite",
+			"customer": "Cliente Demo",
+			"note": "Licencia de ejemplo"
+		}
+	},
+	"revokedLicenses": []
+}
