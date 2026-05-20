@@ -6,19 +6,25 @@
 			"status": "active",
 			"edition": "basic",
 			"customer": "Francisco Jesus Jalomo Chavez",
-			"note": "Licencia de ejemplo2"
+			"note": "Licencia de ejemplo2",
+			"updatesEnabled": true,
+			"updateChannel": "stable"
         },
 		"LIC-97FD-7FDB-ABB7": {
 			"status": "active",
 			"edition": "elite",
 			"customer": "Francisco Jesus Jalomo Chavez",
-			"note": "Registro local; no contiene la clave completa."
+			"note": "Registro local; no contiene la clave completa.",
+			"updatesEnabled": true,
+			"updateChannel": "stable"
 		},
 		"LIC-38AF-A654-74C5": {
 			"status": "active",
 			"edition": "standard",
 			"customer": "Francisco Jesus Jalomo Chavez",
-			"note": "Registro local; no contiene la clave completa."
+			"note": "Registro local; no contiene la clave completa.",
+			"updatesEnabled": true,
+			"updateChannel": "stable"
 		}
 	},
 	"revokedLicenses": []
