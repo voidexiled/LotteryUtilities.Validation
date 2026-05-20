@@ -1,6 +1,8 @@
 {
 	"version": 1,
-	"requireListed": false,
+	"requireListed": true,
+	"defaultUpdatesEnabled": false,
+	"defaultUpdateChannel": "stable",
 	"licenses": {
 		"LIC-D022-D549-0F22": {
 			"status": "active",
