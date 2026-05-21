@@ -11,6 +11,14 @@
 			"updatesEnabled": true,
 			"updateChannel": "stable",
 			"note": "Registro local; no contiene la clave completa."
+		},
+		"LIC-F450-7AB1-779B": {
+			"status": "active",
+			"edition": "elite",
+			"customer": "Francisco Jesus Jalomo Chavez Android",
+			"updatesEnabled": false,
+			"updateChannel": "stable",
+			"note": "Registro local; no contiene la clave completa."
 		}
 	},
 	"revokedLicenses": []
