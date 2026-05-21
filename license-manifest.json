@@ -8,7 +8,7 @@
 			"status": "active",
 			"edition": "elite",
 			"customer": "Francisco Jesus Jalomo Chavez",
-			"updatesEnabled": false,
+			"updatesEnabled": true,
 			"updateChannel": "stable",
 			"note": "Registro local; no contiene la clave completa."
 		}
