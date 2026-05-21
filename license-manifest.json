@@ -4,14 +4,14 @@
 	"defaultUpdatesEnabled": false,
 	"defaultUpdateChannel": "stable",
 	"licenses": {
-		"LIC-3CFB-49A3-65E3": {
-		"status": "active",
-		"edition": "standard",
-		"customer": "Francisco Jesus Jalomo Chavez",
-		"updatesEnabled": false,
-		"updateChannel": "stable",
-		"note": "Registro local; no contiene la clave completa."
-		}	
+		"LIC-8167-A833-6740": {
+			"status": "active",
+			"edition": "elite",
+			"customer": "Francisco Jesus Jalomo Chavez",
+			"updatesEnabled": false,
+			"updateChannel": "stable",
+			"note": "Registro local; no contiene la clave completa."
+		}
 	},
 	"revokedLicenses": []
 }
