@@ -19,7 +19,16 @@
 			"updatesEnabled": false,
 			"updateChannel": "stable",
 			"note": "Registro local; no contiene la clave completa."
+		},
+		"LIC-4968-4E34-2537": {
+			"status": "active",
+			"edition": "pro",
+			"customer": "Arely Aguirre Chavero",
+			"updatesEnabled": true,
+			"updateChannel": "stable",
+			"note": "Registro local; no contiene la clave completa."
 		}
+	
 	},
 	"revokedLicenses": []
 }
