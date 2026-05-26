@@ -27,6 +27,14 @@
 			"updatesEnabled": true,
 			"updateChannel": "stable",
 			"note": "Registro local; no contiene la clave completa."
+		},
+		"LIC-F519-859C-A17C": {
+			"status": "active",
+			"edition": "elite",
+			"customer": "Mayra Rocha",
+			"updatesEnabled": true,
+			"updateChannel": "stable",
+			"note": "Registro local; no contiene la clave completa."
 		}
 	
 	},
