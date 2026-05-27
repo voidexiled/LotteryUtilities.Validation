@@ -35,6 +35,14 @@
 			"updatesEnabled": true,
 			"updateChannel": "stable",
 			"note": "Registro local; no contiene la clave completa."
+		},
+		"LIC-B26F-2DFD-A428": {
+			"status": "active",
+			"edition": "elite",
+			"customer": "Ruben Chavez",
+			"updatesEnabled": true,
+			"updateChannel": "stable",
+			"note": "Registro local; no contiene la clave completa."
 		}
 	
 	},
