@@ -51,6 +51,14 @@
       "updatesEnabled": true,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
+    },
+    "LIC-C5B3-6BD6-DF48": {
+      "status": "active",
+      "edition": "elite",
+      "customer": "Edna Medina",
+      "updatesEnabled": true,
+      "updateChannel": "stable",
+      "note": "Registro local; no contiene la clave completa."
     }
   },
   "revokedLicenses": []
