@@ -24,7 +24,7 @@
       "status": "active",
       "edition": "elite",
       "customer": "Arely Aguirre Chavero",
-      "updatesEnabled": true,
+      "updatesEnabled": false,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
     },
