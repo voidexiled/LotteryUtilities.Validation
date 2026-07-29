@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 3,
   "requireListed": true,
   "defaultUpdatesEnabled": false,
   "defaultUpdateChannel": "stable",
@@ -8,14 +8,46 @@
       "status": "active",
       "edition": "elite",
       "customer": "Francisco Jesus Jalomo Chavez",
+      "licenseType": "trial",
+      "validity": {
+        "startsAt": "2026-07-28T00:00:00Z",
+        "expiresAt": "2026-08-11T23:59:59Z",
+        "offlineGraceHours": 48
+      },
+      "usageLimits": {
+        "maxGenerationRuns": 3,
+        "maxGeneratedTablesTotal": 20,
+        "maxExportRuns": 3,
+        "maxExportedPagesTotal": 10,
+        "maxPagesPerExport": 5
+      },
+      "trialOutput": {
+        "watermark": "VERSIÓN DE PRUEBA"
+      },
       "updatesEnabled": true,
       "updateChannel": "stable",
-      "note": "Registro local; no contiene la clave completa."
+      "note": "Licencia dev configurada como prueba gratuita para validación."
     },
     "LIC-F450-7AB1-779B": {
       "status": "active",
       "edition": "elite",
       "customer": "Francisco Jesus Jalomo Chavez Android",
+      "licenseType": "perpetual",
+      "validity": {
+        "startsAt": null,
+        "expiresAt": null,
+        "offlineGraceHours": -1
+      },
+      "usageLimits": {
+        "maxGenerationRuns": -1,
+        "maxGeneratedTablesTotal": -1,
+        "maxExportRuns": -1,
+        "maxExportedPagesTotal": -1,
+        "maxPagesPerExport": -1
+      },
+      "trialOutput": {
+        "watermark": ""
+      },
       "updatesEnabled": false,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
@@ -24,6 +56,22 @@
       "status": "active",
       "edition": "elite",
       "customer": "Arely Aguirre Chavero",
+      "licenseType": "perpetual",
+      "validity": {
+        "startsAt": null,
+        "expiresAt": null,
+        "offlineGraceHours": -1
+      },
+      "usageLimits": {
+        "maxGenerationRuns": -1,
+        "maxGeneratedTablesTotal": -1,
+        "maxExportRuns": -1,
+        "maxExportedPagesTotal": -1,
+        "maxPagesPerExport": -1
+      },
+      "trialOutput": {
+        "watermark": ""
+      },
       "updatesEnabled": true,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
@@ -32,6 +80,22 @@
       "status": "active",
       "edition": "elite",
       "customer": "Mayra Rocha",
+      "licenseType": "perpetual",
+      "validity": {
+        "startsAt": null,
+        "expiresAt": null,
+        "offlineGraceHours": -1
+      },
+      "usageLimits": {
+        "maxGenerationRuns": -1,
+        "maxGeneratedTablesTotal": -1,
+        "maxExportRuns": -1,
+        "maxExportedPagesTotal": -1,
+        "maxPagesPerExport": -1
+      },
+      "trialOutput": {
+        "watermark": ""
+      },
       "updatesEnabled": true,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
@@ -40,6 +104,22 @@
       "status": "active",
       "edition": "elite",
       "customer": "Ruben Chavez",
+      "licenseType": "perpetual",
+      "validity": {
+        "startsAt": null,
+        "expiresAt": null,
+        "offlineGraceHours": -1
+      },
+      "usageLimits": {
+        "maxGenerationRuns": -1,
+        "maxGeneratedTablesTotal": -1,
+        "maxExportRuns": -1,
+        "maxExportedPagesTotal": -1,
+        "maxPagesPerExport": -1
+      },
+      "trialOutput": {
+        "watermark": ""
+      },
       "updatesEnabled": true,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
@@ -48,6 +128,22 @@
       "status": "active",
       "edition": "elite",
       "customer": "Oziel Garza",
+      "licenseType": "perpetual",
+      "validity": {
+        "startsAt": null,
+        "expiresAt": null,
+        "offlineGraceHours": -1
+      },
+      "usageLimits": {
+        "maxGenerationRuns": -1,
+        "maxGeneratedTablesTotal": -1,
+        "maxExportRuns": -1,
+        "maxExportedPagesTotal": -1,
+        "maxPagesPerExport": -1
+      },
+      "trialOutput": {
+        "watermark": ""
+      },
       "updatesEnabled": true,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
@@ -56,6 +152,22 @@
       "status": "active",
       "edition": "elite",
       "customer": "Edna Medina",
+      "licenseType": "perpetual",
+      "validity": {
+        "startsAt": null,
+        "expiresAt": null,
+        "offlineGraceHours": -1
+      },
+      "usageLimits": {
+        "maxGenerationRuns": -1,
+        "maxGeneratedTablesTotal": -1,
+        "maxExportRuns": -1,
+        "maxExportedPagesTotal": -1,
+        "maxPagesPerExport": -1
+      },
+      "trialOutput": {
+        "watermark": ""
+      },
       "updatesEnabled": true,
       "updateChannel": "stable",
       "note": "Registro local; no contiene la clave completa."
